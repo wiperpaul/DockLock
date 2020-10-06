@@ -1,0 +1,2 @@
+# Secure Docker run command
+docker run -it --cpus 2 --memory 4Gb --security-option seccomp="profile" --security-option apparmor=docker-default
