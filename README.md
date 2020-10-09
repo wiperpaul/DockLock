@@ -1,5 +1,5 @@
 # DockLock
-Hardened Docker Container
+Hardened Docker Container, Should be ran within a VM for complete Kernel isolation.
 
 ## Details
 - Uses official Ubuntu 20.04 image as default
